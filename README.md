@@ -4,7 +4,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-93206-0_10
 
 Install:
 - First, install python 3.x, anaconda,gurobi;
-- Then, use anaconda to install gurobipy in python
+- Then, use anaconda to install gurobipy in python.
 
 Download:
 ```
